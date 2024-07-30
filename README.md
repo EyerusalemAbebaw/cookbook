@@ -1,2 +1,2 @@
 # cookbook
-This is a repository of recipe.
+This is a repository of recipes.
